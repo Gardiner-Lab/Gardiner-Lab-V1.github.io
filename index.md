@@ -1,14 +1,31 @@
-
-
-<img src="https://gardinerlab.org/wp-content/uploads/2022/10/g-logo-2.png" alt="Gardiner Lab Logo" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto;">
-
-<ul>
-  <li><h1><a href="https://gardinerlab.org/">Gardiner lab Home</a></h1></li>
-  <li><h1><a href="./3d-Printed_Labware.md">3d-Printed Labware</a></h1></li>
-</ul>
- 
-
-
-
-
-
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Title Here</title>
+</head>
+<body>
+  <header>
+    <h1><a href="#">Welcome to My Website</a></h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2><a href="#">About Me</a></h2>
+      <p>This is a section about me.</p>
+    </section>
+    <section>
+      <h2><a href="#">Contact</a></h2>
+      <p>You can contact me here.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2022 Your Name Here</p>
+  </footer>
+</body>
+</html>
