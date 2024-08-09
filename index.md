@@ -31,7 +31,7 @@ img {
   <div class="grid-item">
     <ul>
       <li><h1><a href="https://gardinerlab.org/">Gardiner lab Home</a></h1></li>
-      <li><h1><a href="./3d-Printed_Labware.md">3d-Printed Labware</a></h1></li>
+      <li><h1><a href=./3d-Printed_Labware.md>3d-Printed Labware</a></h1></li>
       <li><h1><a href="https://github.com/Gardiner-Lab?tab=repositories">Internal site</a></h1></li>
     </ul>
   </div>
