@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 .grid-container {
   display: grid;
