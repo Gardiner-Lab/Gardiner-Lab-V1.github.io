@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
 .grid-container {
   display: grid;
   grid-template-columns: auto auto; /* Two equal columns */
@@ -21,8 +19,7 @@ img {
   width: 300px;
   height: 300px;
 }
-</style>
-</head>
+
 <body>
 
 <div class="grid-container">
