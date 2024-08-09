@@ -20,6 +20,9 @@ img {
   width: 300px;
   height: 300px;
 }
+ul{
+  text-align: left;
+}
 </style>
 </head>
 <body>
