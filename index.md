@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 <img src="https://gardinerlab.org/wp-content/uploads/2022/10/g-logo-2.png" alt="Gardiner Lab Logo">
 
