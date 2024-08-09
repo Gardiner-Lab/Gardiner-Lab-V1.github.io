@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Gardinerlab.org](https://gardinerlab.org/).
 
