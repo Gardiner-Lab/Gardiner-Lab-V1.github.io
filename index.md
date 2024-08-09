@@ -4,7 +4,8 @@ layout: default
 
 
 [Gardinerlab.org](https://gardinerlab.org/)
-[3d-Printed_Labware.md](./another-page.html)
+
+[3d-Printed_Labware.md](./3d-Printed_Labware.md)
 
 There should be whitespace between paragraphs.
 
